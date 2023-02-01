@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Juwan, a senior Computer Science major at Clayton State University here in Atlanta, GA 👨🏾‍💻 I have over two years of hands-on experience in software engineering, both professional and recreational. I have a passion for developing high-quality applications that can be applied to the real world and coding things that make life convenient. I also have strong technical skills in programming. Some langauges/concepts I'm familiar with include Python, Javascript, PHP, React, Node.js, and C++ to name a few  I'm always looking for new challenges and opportunities to further broaden my horizon 😁
+
 <!--
 **Juwan-Hollingsworth/Juwan-Hollingsworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
