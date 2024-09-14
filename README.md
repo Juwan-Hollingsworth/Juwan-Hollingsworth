@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hey👋 thanks for stopping by,
 
-**I'm Juwan, a senior Computer Science undergraduate with over two years of hands-on experience in software engineering. I have a passion for developing high-quality applications and have strong technical skills in programming and software development. I'm always looking for new challenges and opportunities to further develop my skills and broaden my horizons.**
+**I'm Juwan, a CS grad and full stack SWE with a knack for building scalable apps and translating tech-speak. As a former small business owner, I believe code can tackle complex and tedious tasks alike.
+Currently, I'm a Tech Support II and API developer/consultant in Orlando, FL, working with custom software, APIs, and incident monitoring.
+Always eager to learn, collaborate, and take on new challenges. Check out my repos to see what I'm exploring!
+Looking for a Software Engineer II who bridges tech and business? Let's connect!**
 
 
 <!--
