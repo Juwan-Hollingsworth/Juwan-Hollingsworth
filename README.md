@@ -1,9 +1,7 @@
 ### Hey👋 thanks for stopping by,
 
-**I'm Juwan, a CS grad and full stack SWE with a knack for building scalable apps and translating tech-speak. As a former small business owner, I believe code can tackle complex and tedious tasks alike.
-Currently, I'm a Tech Support II and API developer/consultant in Orlando, FL, working with custom software, APIs, and incident monitoring.
-Always eager to learn, collaborate, and take on new challenges. Check out my repos to see what I'm exploring!
-Looking for a Software Engineer II who bridges tech and business? Let's connect!**
+**I'm Juwan, a technical engineer II by day, software engineer by night. With 5+ years of experience, I specialize in web app development, performance optimization, and RESTful/SOAP APIs. My tech stack includes Java, Python, and JavaScript, with a knack for troubleshooting, full-stack development and cloud solutions. When I'm not diving into code or deploying scalable applications, you'll find me analyzing stock market trends, lifting wieghts, or cheering on the Ravens. Football, fitness, and finances – that's my off-duty trinity. Let's connect!
+**
 
 
 <!--
