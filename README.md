@@ -1,8 +1,9 @@
 ## Looks like you’ve stumbled upon my corner of the internet,
 
-### I break things by day and fix them by night. A man of logic, Colony Grille Pizza, and questionable amounts of caffeine. ###
+### I break things by day and fix them by night.### 
+### A man of logic, Colony Grille Pizza, and questionable amounts of caffeine. ###
 
-### Telegram: @x0_0000000
+### Telegram: @x0_0000000 
 
 
 <!--
