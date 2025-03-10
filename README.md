@@ -1,7 +1,15 @@
 ## Looks like you’ve stumbled upon my corner of the internet,
 
-### I break things by day and fix them by night.### 
+### I break things by day and fix them by night. ### 
 ### A man of logic, Colony Grille Pizza, and questionable amounts of caffeine. ###
+### Likes: ###
+- Building tools to support everday business. 
+- Decentralized applications 
+- Trading Systems 
+### Dislikes: ###
+- Microwaved meals 
+- Unnecessary complexity 
+- Code without comments (aka my personal nightmare).
 
 ### Telegram: @x0_0000000 
 
