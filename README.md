@@ -9,7 +9,7 @@
 ### Dislikes: ###
 - Microwaved meals 
 - Unnecessary complexity 
-- Code without comments (aka my personal nightmare).
+- Code without comments (because...why?).
 
 ### Telegram: @x0_0000000 
 
