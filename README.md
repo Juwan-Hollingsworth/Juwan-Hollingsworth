@@ -11,6 +11,14 @@
 - Unnecessary complexity 
 - Code without comments (because...why?).
 
+### Technology I'm using in 2025 ###
+- Python
+- AWS
+- Splunk
+- Grafana
+- React
+- Databricks 
+
 ### Telegram: @x0_0000000 
 
 
